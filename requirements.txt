@@ -1,0 +1,13 @@
+python-dotenv 
+requests 
+aiohttp
+groq
+twilio
+uvicorn
+pyngrok
+fastapi
+ipykernel
+pyTelegramBotAPI
+mistralai
+google-genai
+Pillow
